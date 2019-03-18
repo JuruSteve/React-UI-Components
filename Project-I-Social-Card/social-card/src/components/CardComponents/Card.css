@@ -3,8 +3,18 @@
   margin-left: 15%;
 }
 
+.card-content {
+  padding: 20px;
+  border: 1px solid #0000002e;
+}
+
 .banner {
   width: 100%;
   height: auto;
-  border-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.card-link a {
+  color: gray;
 }

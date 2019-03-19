@@ -1,0 +1,13 @@
+.display {
+  background-color: #222222;
+  padding: 40px 20px;
+  display: flex;
+  justify-content: flex-end;
+  color: white;
+}
+
+.display-results {
+  font-size: 3rem;
+  margin: 0;
+  font-weight: 100;
+}

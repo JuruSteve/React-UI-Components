@@ -1,0 +1,30 @@
+.action-button1 {
+  display: flex;
+  justify-content: center;
+  background-color: #a0231f;
+  border: 1px solid gray;
+  text-align: center;
+  font-size: 3rem;
+  padding: 5.2px;
+}
+
+.number-button {
+  width: 100%;
+  padding: 7px 0;
+}
+
+.symbol-button {
+  background: #a0231f;
+  border: none;
+  padding: 0;
+}
+.zero-button {
+  width: 100%;
+}
+.clear-button {
+  width: 100%;
+}
+
+#clear-button {
+  padding: 0;
+}

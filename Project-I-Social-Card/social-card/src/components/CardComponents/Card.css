@@ -1,1 +1,20 @@
 /* All styles for your Card Components live here */
+.card-container {
+  margin-left: 15%;
+}
+
+.card-content {
+  padding: 20px;
+  border: 1px solid #0000002e;
+}
+
+.banner {
+  width: 100%;
+  height: auto;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.card-link a {
+  color: gray;
+}

@@ -1,0 +1,35 @@
+.app {
+  background: grey;
+  margin: 0 auto;
+  width: 400px;
+  height: auto;
+  margin-top: 80px;
+}
+
+.calc-container {
+  padding: 0;
+  margin: 0;
+}
+
+.actions-container {
+  padding: 0;
+}
+.top-numbers {
+  padding: 0;
+  font-size: 3rem;
+}
+.mid-numbers {
+  padding: 0;
+  font-size: 3rem;
+}
+.bottom-numbers {
+  padding: 0;
+  font-size: 3rem;
+}
+
+.clear-button-column {
+  padding: 0;
+}
+.zero-button-column {
+  padding: 0;
+}
